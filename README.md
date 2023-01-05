@@ -3,7 +3,7 @@
 <img src="./img/FundMe.png" align="right"
      alt="FundMe" width="400" height="450">
 
-This repository contains the `frontend code` for the FundMe project. There is a separate repository for the basic `back code`.
+This repository contains the `frontend code` for the FundMe project. There is a separate repository for the basic `backend code`.
 
 This contract was created using the `Hardhat` development framework and following a `32 hour YouTube course by Patrick Collins`.
 
